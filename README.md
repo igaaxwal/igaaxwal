@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaxwal&layout=compact&theme=radical) ![Iga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igaaxwal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaxwal&theme=radical) ![Iga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igaaxwal&show_icons=true&theme=radical)
 
 👋 Hi, I'm Iga Walczynska!
 
