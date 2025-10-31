@@ -1,4 +1,4 @@
-![Iga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igaaxwal&show_icons=true&count_private=true&theme=radical&card_width=470) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaxwal&layout=default&langs_count=10&theme=radical&card_width=470)
+| ![Iga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igaaxwal&show_icons=true&count_private=true&theme=radical&card_width=460) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaxwal&langs_count=10&layout=compact&theme=radical&card_width=460) |
 
 👋 Hi, I'm Iga Walczynska!
 
