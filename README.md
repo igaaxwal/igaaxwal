@@ -4,7 +4,8 @@
 
 🎓 3rd Year BSc Computing Student at National College of Ireland (NCI) | 📊 Data Analysis and Web Development Enthusiast  
 🌍 Based in Dublin, Ireland | Open to graduate/internship opportunities in Data Analysis, IT Support, QA, or Software Development
-  🌱 Currently Learning: backend development (Node.js & APIs), Data analysis with Python & SQL, Cloud hosting & deployment  
+
+🌱 Currently Learning: backend development (Node.js & APIs), Data analysis with Python & SQL, Cloud hosting & deployment  
 📚 Building personal and academic projects to grow my skills and portfolio  🌐 Passionate about coding, data, and innovative projects
 
 ✉️ Feel free to reach out via LinkedIn: www.linkedin.com/in/iga-walczynska-774aa41a8 or email: igawalczynska3@gmail.com
